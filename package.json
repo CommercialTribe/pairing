@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "jasmine-node": "^1.14.5"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
   }
 }
